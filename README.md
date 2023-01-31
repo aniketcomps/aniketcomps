@@ -1,16 +1,12 @@
 ### Hi there 👋
 
 <pre>
-from your-company import data_team
-
-Aniket_Patil = {'I_am' : ['Analytics Professional', 'MS Student],
+Aniket_Patil = {'I_am' : ['Analytics Professional of 3 years', 'Learner of a lifetime'],
                 'Education' : ['MS in Business Analytics', 'BE in Computer Engineering'],
-                'Tech_Stack' : ['Python', 'R', 'SQL', 'Power BI', 'Tableau', 'AWS', 'Azure'],
+                'Tech_stack' : ['Python', 'R', 'SQL', 'AWS', 'Azure', 'Power BI', 'Tableau'],
                 'Certifications' : ['Azure Data Analyst Associate','Azure Data Fundamentals'],
-                'Skills' : ['Machine Learning', 'Data Transformation', 'A/B Testing', 'Visualization'],
+                'Skills' : ['Machine Learning', 'Optimization', 'Data Transformation', 'A/B Testing', 'Visualization'],
                 'Passion' : ['Supporting Data Science Newbies', 'Product Analytics', 'Formula One']}
-
-data_team.to_list().append(Aniket_Patil)
 </pre>
 
 <!--
