@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <pre>
-Aniket_Patil = {'I_am' : ['Analytics Professional of 3 years', 'Learner of a lifetime'],
+Aniket_Patil = {'I_am' : ['Data science professional of 3 years', 'Learner of a lifetime'],
                 'Education' : ['MS in Business Analytics', 'BE in Computer Engineering'],
                 'Tech_stack' : ['Python', 'R', 'SQL', 'AWS', 'Azure', 'Power BI', 'Tableau'],
                 'Certifications' : ['Azure Data Analyst Associate','Azure Data Fundamentals'],
-                'Skills' : ['Machine Learning', 'Optimization', 'Data Transformation', 'A/B Testing', 'Visualization'],
-                'Passion' : ['Supporting Data Science Newbies', 'Product Analytics', 'Formula One']}
+                'Skills' : ['Machine Learning', 'Optimization', 'Visualization', 'Data Transformation', 'A/B Testing'],
+                'Passions' : ['Formula One', 'Fitness']}
 </pre>
 
 <!--
